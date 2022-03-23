@@ -1,0 +1,8 @@
+E:\visual studio NET\Eka Bagus Taxi\Eka Bagus Taxi\obj\Debug\Eka Bagus Taxi.csproj.AssemblyReference.cache
+E:\visual studio NET\Eka Bagus Taxi\Eka Bagus Taxi\obj\Debug\Eka Bagus Taxi.csproj.SuggestedBindingRedirects.cache
+E:\visual studio NET\Eka Bagus Taxi\Eka Bagus Taxi\obj\Debug\Eka Bagus Taxi.csproj.CoreCompileInputs.cache
+E:\visual studio NET\Eka Bagus Taxi\Eka Bagus Taxi\bin\Debug\Eka Bagus Taxi.exe.config
+E:\visual studio NET\Eka Bagus Taxi\Eka Bagus Taxi\bin\Debug\Eka Bagus Taxi.exe
+E:\visual studio NET\Eka Bagus Taxi\Eka Bagus Taxi\bin\Debug\Eka Bagus Taxi.pdb
+E:\visual studio NET\Eka Bagus Taxi\Eka Bagus Taxi\obj\Debug\Eka Bagus Taxi.exe
+E:\visual studio NET\Eka Bagus Taxi\Eka Bagus Taxi\obj\Debug\Eka Bagus Taxi.pdb
